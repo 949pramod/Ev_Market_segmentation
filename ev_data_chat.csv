@@ -1,0 +1,31 @@
+CustomerID,City,State,Age,Income,Occupation,EnvironmentalConcern,TechSavvy,VehicleType,CurrentVehicleType,DailyCommuteDistance,InterestInEV,ChargingStationAvailability,GovernmentIncentives
+1,Delhi,Delhi,30,1000000,Tech Employee,High,High,Car,Petrol,20,Yes,High,Yes
+2,Mumbai,Maharashtra,45,800000,Business Owner,Medium,Medium,Car,Diesel,15,Yes,Medium,Yes
+3,Bengaluru,Karnataka,28,700000,Professional,High,High,Bike,Petrol,10,Yes,High,Yes
+4,Pune,Maharashtra,35,600000,Professional,Low,High,Car,Petrol,25,No,Low,Yes
+5,Hyderabad,Telangana,50,1500000,Business Owner,Medium,Low,Car,Diesel,30,No,Medium,Yes
+6,Chennai,Tamil Nadu,40,900000,Tech Employee,High,Medium,Car,Petrol,20,Yes,High,No
+7,Delhi,Delhi,33,1200000,Professional,High,High,Bike,Petrol,5,Yes,High,Yes
+8,Mumbai,Maharashtra,27,500000,Student,High,High,Bike,Petrol,10,Yes,Medium,Yes
+9,Bengaluru,Karnataka,32,1100000,Tech Employee,Medium,High,Car,Diesel,20,Yes,High,Yes
+10,Pune,Maharashtra,38,850000,Professional,Low,Medium,Car,Petrol,25,No,Low,Yes
+11,Hyderabad,Telangana,26,650000,Tech Employee,High,High,Bike,Petrol,15,Yes,Medium,Yes
+12,Chennai,Tamil Nadu,41,950000,Business Owner,Medium,Low,Car,Diesel,30,No,High,No
+13,Delhi,Delhi,29,1300000,Professional,High,High,Car,Petrol,20,Yes,High,Yes
+14,Mumbai,Maharashtra,44,750000,Business Owner,Medium,Medium,Car,Diesel,15,Yes,Medium,Yes
+15,Bengaluru,Karnataka,31,1050000,Tech Employee,High,High,Bike,Petrol,10,Yes,High,Yes
+16,Pune,Maharashtra,36,720000,Professional,Low,Medium,Car,Petrol,25,No,Low,Yes
+17,Hyderabad,Telangana,48,1400000,Business Owner,Medium,Low,Car,Diesel,30,No,Medium,Yes
+18,Chennai,Tamil Nadu,39,920000,Tech Employee,High,Medium,Car,Petrol,20,Yes,High,No
+19,Delhi,Delhi,34,1150000,Professional,High,High,Bike,Petrol,5,Yes,High,Yes
+20,Mumbai,Maharashtra,28,550000,Student,High,High,Bike,Petrol,10,Yes,Medium,Yes
+21,Delhi,Delhi,37,850000,Professional,Medium,High,Car,Diesel,15,Yes,High,Yes
+22,Bengaluru,Karnataka,29,1300000,Tech Employee,High,High,Car,Petrol,25,Yes,High,Yes
+23,Pune,Maharashtra,42,1150000,Business Owner,Low,Medium,Car,Diesel,20,No,Low,Yes
+24,Hyderabad,Telangana,35,1200000,Professional,Medium,Low,Car,Petrol,15,Yes,Medium,Yes
+25,Chennai,Tamil Nadu,32,1000000,Tech Employee,High,Medium,Bike,Petrol,10,Yes,High,No
+26,Delhi,Delhi,40,1400000,Business Owner,High,High,Car,Diesel,30,Yes,High,Yes
+27,Mumbai,Maharashtra,33,700000,Professional,Medium,Medium,Car,Petrol,25,No,Medium,Yes
+28,Bengaluru,Karnataka,27,500000,Student,High,High,Bike,Petrol,5,Yes,High,Yes
+29,Pune,Maharashtra,45,900000,Business Owner,Medium,Medium,Car,Diesel,20,Yes,Low,Yes
+30,Hyderabad,Telangana,31,1100000,Tech Employee,High,High,Car,Petrol,15,Yes,Medium,Yes
